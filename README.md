@@ -9,7 +9,7 @@ pip install xpca
 
 ## Paper
 
-See *Iterated and exponentially weighted moving principal component analysis* on arXiv.
+See *Iterated and exponentially weighted moving principal component analysis* on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913940
 
 ## Usage
 

@@ -13,6 +13,10 @@ See *Iterated and exponentially weighted moving principal component analysis* on
 
 ## Usage
 
+<pre>
+import xpca
+</pre>
+
 ### Iterated PCA (IPCA)
 
 <pre>
